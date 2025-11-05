@@ -1,0 +1,13 @@
+Uj ak tech oldal
+Computer Discover oldalról kimasolni mindent
+Kepek, Szinek maradnak az eredetin. Font: Avenir LTDS STD 45 book 65 medium 95 black
+
+Feladat leiras:
+
+	"
+	So lets make this clear. We have to create a new AK Tech site. 
+	Copy every image elements colors text everything from Computer 	Discover site? 
+	The only difference between the 2 sites are the logo, the colors and the font you sent here
+	"
+
+deadline, nov. 12
